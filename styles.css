@@ -42,7 +42,7 @@ h3, text{
 }
 
 h4{
-    display: block;
+    display: grid;
     font-weight: bold;
     text-decoration: none;
     color: var(--black);
@@ -62,7 +62,7 @@ nav ul{
 }
 
 nav a{
-    display: block;
+    display: grid;
     font-weight: bold;
     text-decoration: none;
     color: var(--black);
