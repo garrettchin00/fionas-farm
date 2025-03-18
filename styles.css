@@ -84,14 +84,6 @@ img{
     margin: 0 auto;
 }
 
-/* ----- LINK STYLES ----- */
-a{
-    display: block;
-    padding: 1rem;
-    text-align: left;
-    margin: 0 auto;
-}
-
 /* ----- TABLE STYLES ----- */
 table{
     width: 245px;
@@ -101,7 +93,7 @@ table{
 }
 
 thead{
-    background-color: var(--green);
+    background-color: var(--orange);
     border-radius: 0.25rem;
 }
 
@@ -126,6 +118,25 @@ td, th{
     padding: 0.5rem;
 }
 
+#contact{
+    background-color: var(--green);
+    color: var(--white);
+    border-bottom: 8px solid var(--green);
+}
+
+#contact h2{
+    color: var(--white);
+}
+
+#hours{
+    background-color: var(--green);
+    color: var(--white);
+    border-bottom: 2px solid var(--green);
+}
+
+#hours h2{
+    color: var(--white);
+}
 footer{
     text-align: center;
     margin: 0 auto;
