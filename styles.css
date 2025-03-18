@@ -93,7 +93,7 @@ a{
 table{
     width: 245px;
     margin: 0 auto;
-    display: table-cell;
+    display: table;
     border-collapse: collapse;
 }
 
