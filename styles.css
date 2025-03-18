@@ -94,3 +94,20 @@ table{
     width: 245px;
     margin: 0 auto;
 }
+
+th{
+    font-size: 1.25rem;
+    font-weight: bold;
+}
+
+tbody tr{
+    border-bottom: 2px solid var(--black);
+}
+
+td{
+    display: table-cell;
+}
+
+td, th{
+    padding: 0.5rem;
+}
