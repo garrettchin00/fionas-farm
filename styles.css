@@ -109,7 +109,7 @@ th{
     font-weight: bold;
 }
 
-tr{
+tbody tr{
     border-bottom: 2px solid var(--black);
 }
 
