@@ -120,3 +120,8 @@ td{
 td, th{
     padding: 0.5rem;
 }
+
+footer{
+    text-align: center;
+    margin: 0 auto;
+}
