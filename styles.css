@@ -77,7 +77,7 @@ nav li{
 /* ----- IMAGE STYLES ----- */
 img{
     display: block;
-    width: 100%;
+    width: auto;
     height: auto;
 }
 
