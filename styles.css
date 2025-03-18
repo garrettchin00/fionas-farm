@@ -13,6 +13,11 @@
     --white: #ffffff;
 }
 
+body{
+    min-width: 428px;
+    max-width: 1280px;
+}
+
 /* Text */
 p{
     font-family: "Habibi";
