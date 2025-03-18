@@ -44,14 +44,12 @@ h3, text{
 h4{
     display: grid;
     font-weight: bold;
+    font-size: 1.15em;
     text-decoration: none;
     color: var(--black);
     background-color: var(--orange); 
 }
 
-h4 a{
-    text-decoration: none;
-}
 a{
     font-family: "Habibi";
     text-decoration: none;
@@ -85,4 +83,10 @@ img{
 a{
     display: block;
     padding: 1rem;
+}
+
+/* ----- TABLE STYLES ----- */
+table{
+    width: 245px;
+    margin: 0 auto;
 }
