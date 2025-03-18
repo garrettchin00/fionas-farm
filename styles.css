@@ -54,6 +54,7 @@ h4 a{
 }
 a{
     font-family: "Habibi";
+    text-decoration: none;
 }
 
 nav ul{
