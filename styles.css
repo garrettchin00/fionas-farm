@@ -14,7 +14,7 @@
 }
 
 /* Text */
-text::content{
+::content{
     font-family: "Habibi";
 }
 
