@@ -93,7 +93,8 @@ a{
 table{
     width: 245px;
     margin: 0 auto;
-    display: inline-block;
+    display: table-cell;
+    border-collapse: collapse;
 }
 
 thead{
