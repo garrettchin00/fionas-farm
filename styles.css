@@ -95,6 +95,15 @@ table{
     margin: 0 auto;
 }
 
+thead{
+    background-color: var(--green);
+    border-radius: 0.25rem;
+}
+
+thead tr{
+    border-bottom: 2px solid var(--black);
+}
+
 th{
     font-size: 1.25rem;
     font-weight: bold;
