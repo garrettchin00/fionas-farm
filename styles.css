@@ -89,6 +89,7 @@ table{
     width: 245px;
     margin: 0 auto;
     display: table;
+    color: var(--white);
 }
 
 thead{
@@ -119,14 +120,29 @@ td, th{
 
 section{
     background-color: var(--green);
+    color: var(--white);
+}
+
+section h2{
+    color: var(--white);
 }
 
 #fruits{
     background-color: var(--white);
+    color: var(--black);
+}
+
+#fruits h2{
+    color: var(--black);
 }
 
 #vegetables{
     background-color: var(--white);
+    color: var(--black);
+}
+
+#vegetables h2{
+    color: var(--black);
 }
 
 footer{
