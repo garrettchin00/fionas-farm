@@ -2,7 +2,18 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Habibi&family=Irish+Grover&display=swap')
 
-Add to text content
+/* ROOT VARIABLES */
+:root{
+    /* Google Imported Fonts */
+    --fonts: "Habibi", "Irish Grover", latin;
+    /* Colors */
+    --green: #06A816;
+    --orange: #E75D02;
+    --black: #000000;
+    --white: #ffffff;
+}
+
+/* Text */
 Habibi
 Add to headings
 Heading: "Irish Grover
@@ -11,9 +22,4 @@ Sizes
 H1: 2.5em
 H2: 1.75em
 H3, Text: 1.25em
-Colors
-Green: #06A816
-Orange: #E75D02
-Black: #000000
-White: #ffffff
 
