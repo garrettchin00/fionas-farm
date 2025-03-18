@@ -49,6 +49,9 @@ h4{
     background-color: var(--orange); 
 }
 
+h4 a{
+    text-decoration: none;
+}
 a{
     font-family: "Habibi";
 }
