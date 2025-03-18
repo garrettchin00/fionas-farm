@@ -73,3 +73,16 @@ nav li{
     line-height: 2rem;
     margin: 10px 0px 10px -40px;
 }
+
+/* ----- IMAGE STYLES ----- */
+img{
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+/* ----- LINK STYLES ----- */
+a{
+    display: block;
+    padding: 1rem;
+}
