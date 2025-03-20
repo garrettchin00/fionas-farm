@@ -40,12 +40,12 @@ h3, text{
 }
 
 h4{
-    display: grid;
+    display: inline-block;
     font-weight: bold;
     font-size: 1.15em;
     text-decoration: none;
     color: var(--white);
-    background-color: var(--orange);
+    background-color: var(--black);
     text-align: center; 
 }
 
@@ -164,7 +164,7 @@ footer{
     margin-right: 10px;
     text-decoration: none;
     padding: 10px;
-    display: block;
+    display: inline-block;
     font-family: "Irish Grover";
     text-align: right;
     color: var(--white);
