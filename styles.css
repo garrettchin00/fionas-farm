@@ -52,7 +52,7 @@ h4{
 h4 a{
     text-align: center;
     color: var(--white);
-    position: absolute;
+    position: relative;
 }
 
 h4 a:hover{
